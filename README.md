@@ -1,4 +1,4 @@
-# file-folder-compression
+# Personal file and folder compression
 File and folder compression with spesific extension
 
 ## How To Use
